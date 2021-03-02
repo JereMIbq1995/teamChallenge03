@@ -1,3 +1,7 @@
+Mikaela:
+My name is mikaela 
+
+Jeremy:
 This is the README.md file for teamChallenge03
 
 Abram:
